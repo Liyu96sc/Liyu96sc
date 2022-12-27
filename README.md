@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 李钰(LI Yu)
+- 👋 Hi, I’m LI Yu（李钰）
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning in Visual Information Processing Laboratory, Ritsumeikan University
 - 💞️ I’m looking to collaborate on ...
